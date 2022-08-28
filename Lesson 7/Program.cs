@@ -1,0 +1,35 @@
+﻿//  Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+// m = 3, n = 4.
+
+Console.WriteLine("Введите m:");
+int m = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Введите n:");
+int n = Convert.ToInt32(Console.ReadLine());
+
+double[,] matrix = new double [m,n];
+void PrintArray (double[,] matr)
+{
+    for (int i=0; i < matr.GetLength(0); i++)
+    {
+        for (int j=0; j < matr.GetLength(1); j++)
+            {
+            Console.Write ($"{matr[i,j]}\t");  
+            }
+            Console.WriteLine();
+    }
+}
+
+void FillArray (double[,] matr)
+    {
+        for (int i=0; i < matr.GetLength(0); i++)
+        {
+            for (int j=0; j < matr.GetLength(1); j++)
+                {
+                matr[i,j] = Math.Round(new Random().NextDouble() * 10, 1);  
+                }
+        }
+    }
+
+FillArray(matrix);
+PrintArray(matrix);

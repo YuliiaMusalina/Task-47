@@ -1,0 +1,15 @@
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\bin\Debug\net6.0\Lesson 7.exe
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\bin\Debug\net6.0\Lesson 7.deps.json
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\bin\Debug\net6.0\Lesson 7.runtimeconfig.json
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\bin\Debug\net6.0\Lesson 7.dll
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\bin\Debug\net6.0\Lesson 7.pdb
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.csproj.AssemblyReference.cache
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.AssemblyInfoInputs.cache
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.AssemblyInfo.cs
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.csproj.CoreCompileInputs.cache
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.dll
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\refint\Lesson 7.dll
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.pdb
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\Lesson 7.genruntimeconfig.cache
+C:\Users\uliamusalina\Desktop\Задача 47\Task 47\Lesson 7\obj\Debug\net6.0\ref\Lesson 7.dll
